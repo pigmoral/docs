@@ -6,10 +6,17 @@ export default defineConfig({
   description: "",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/avatar.jpeg',
+
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Docs', link: '/00-before/about-me' }
+      { text: 'Docs', link: '/00-before/about-me' },
+      { text: 'Blog', link: '/blog/index' }
     ],
+
+    search: {
+      provider: 'local'
+    },
 
     sidebar: [
       {
