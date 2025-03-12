@@ -9,6 +9,13 @@ hero:
 lastUpdated: true
 
 ---
+<div class="blog-post">
+<a>
+    <h1>ICP 备案成功</h1>
+    <small>2024-06-26</small>
+    <p>终于备案成功啦，现在可以通过 judehahh.tech 来访问本网站</p>
+</a>
+</div>
 
 <div class="blog-post">
 <a href="/00-before/about-me">
